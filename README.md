@@ -1,7 +1,9 @@
 #### OpenGov Africa's Google Summer of Code (GSoC)
 
 Welcome!
-We’re incredibly excited to share that **OpenGov Africa will be applying to participate in Google Summer of Code for the very first time** 🎉🚀 See our [Expression of Interest & Project ideas here:](https://github.com/OpenGovAfrica/gsoc/discussions/17)
+We’re incredibly excited to share that **OpenGov Africa will be applying to participate in Google Summer of Code for the very first time!!** 🎉🚀 
+
+- See our [Expression of Interest & Project ideas here](https://github.com/OpenGovAfrica/gsoc/discussions/17).
 
 This is a huge milestone for our community, and we are thrilled to open our doors to contributors from across the globe who are passionate about **open governance, civic technology, transparency, and public accountability in Africa**.
 
