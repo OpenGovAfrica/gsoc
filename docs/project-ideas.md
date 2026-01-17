@@ -1,4 +1,4 @@
-# GSoC Program Ideas
+# GSoC Project Ideas
 
 OpenGov Africa is preparing to apply as a **Google Summer of Code (GSoC) 2026 Mentoring Organization**.
 
