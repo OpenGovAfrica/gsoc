@@ -1,4 +1,4 @@
-#### OpenGov Africa's Google Summer of Code (GSoC)
+# OpenGov Africa's Google Summer of Code (GSoC)
 
 Welcome!
 We’re incredibly excited to share that **OpenGov Africa will be applying to participate in Google Summer of Code for the very first time!!** 🎉🚀 
