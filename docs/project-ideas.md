@@ -18,7 +18,7 @@ All projects are aligned with our mission to advance **open governance, transpar
 
 These projects have a clearly defined scope and are suitable for a standard 12 week GSoC timeline. Each project includes starter tasks, documentation references, and clearly scoped deliverables. Contributors are encouraged to engage early with the community.
 
-| # | Project Title | Category | Skills to Study / Improve | Project Description | Potential Mentor(s) |
+| # | Project Title | Category | Skills to Study / Improve | Project Description |  Mentor(s) |
 |---|--------------|----------|---------------------------|---------------------|---------------------|
 | 1 | Citizens-in-Office Tracker | Governance & Accountability | Web Development, Databases, Data Modeling, Research Automation | Develop a transparent system to document public officials, offices held, tenure, and affiliations using verifiable open data sources, prioritizing data ethics and provenance. | Tamara & Bena gsoc@opengovafrica.org |
 | 2 | AI-Assisted Budget Document Parsing | GovTech / AI | Python, NLP, Document Processing | Use AI-assisted techniques to parse, structure, and extract insights from complex and often unstructured African government budget documents. | Tamara & Bena gsoc@opengovafrica.org |
