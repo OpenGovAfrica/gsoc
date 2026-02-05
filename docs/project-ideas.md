@@ -20,6 +20,9 @@ These projects have a clearly defined scope and are suitable for a standard 12 w
 
 | # | Project Title | Category | Skills to Study / Improve | Project Description | Potential Mentor(s) |
 |---|--------------|----------|---------------------------|---------------------|---------------------|
+| 1 | Citizens-in-Office Tracker | Governance & Accountability | Web Development, Databases, Data Modeling, Research Automation | Develop a transparent system to document public officials, offices held, tenure, and affiliations using verifiable open data sources, prioritizing data ethics and provenance. | Tamara & Bena gsoc@opengovafrica.org |
+| 2 | AI-Assisted Budget Document Parsing | GovTech / AI | Python, NLP, Document Processing | Use AI-assisted techniques to parse, structure, and extract insights from complex and often unstructured African government budget documents. | Tamara & Bena gsoc@opengovafrica.org |
+| 2 | Local Government Service Delivery Tracker | Service Delivery / Civic Tech | Web Development, Databases, Data Collection | Build a platform that tracks service delivery at the local government level (water, sanitation, health, education) using open data and community-reported inputs. | Tamara gsoc@opengovafrica.org |
 
 ---
 
