@@ -2,7 +2,8 @@
 
 All work must adhere to the following standards to ensure long-term maintainability. 
 
-Collaboration vs. Individual Evaluation
+### Collaboration vs. Individual Evaluation
+
 It is important to clarify a core Google Summer of Code (GSoC) rule: GSoC is an individual program. While you are encouraged to collaborate with the community, help peers troubleshoot, and share knowledge during the application and bonding periods, your final project proposal and the code you submit for your project must be your own individual work. GSoC does not accept team applications or group projects for a single stipend slot. Mentors need to see your individual technical capability to select you for a slot. For **all tasks listed till "Phase 0"** we highly encourage you to collaborate with each other as you will definitely learn faster. Use Phase 0 as an opportunity to show you can lead and set up a project independently, even if you are discussing high-level logic with other potential contributors in public channels. 
 
 ### 1. Technical Documentation
