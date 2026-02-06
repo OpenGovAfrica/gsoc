@@ -1,4 +1,4 @@
-### GSoC 2026 Project Standards and Contributor Requirements
+### OpenGov Africa GSoC 2026 Project Standards and Contributor Requirements
 
 All work must adhere to the following standards to ensure long-term maintainability. 
 
